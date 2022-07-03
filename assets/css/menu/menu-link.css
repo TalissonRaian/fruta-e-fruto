@@ -1,0 +1,15 @@
+.menu__link{
+    color: darkkhaki;
+    margin-right: 1.25rem;
+    text-decoration: none;
+    text-transform: lowercase;
+}
+.munu__link, .ativo{
+    color: black;
+    font-size: bold;
+
+    
+}
+.menu__link:hover{
+    text-decoration: underline;
+}
